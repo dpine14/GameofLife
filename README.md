@@ -1,3 +1,6 @@
 # GameofLife
 A cliche start to teaching myself python
-Use browser to display
+
+
+TODO:
+implement pygame to  maek interctive and cleaner display
