@@ -3,4 +3,4 @@ A cliche start to teaching myself python
 
 
 TODO:
-implement pygame to  maek interctive and cleaner display
+implement pygame to make interactive and cleaner display
